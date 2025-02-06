@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henrywbarber, a Junior at The University of Wisconsin - Madison
+- 👋 Hi, I’m @henrywbarber, a Senior at The University of Wisconsin - Madison
 - 👀 I’m interested in Linear Algebra, Large Data Manipulation, and Machine Learning
-- 🌱 I’m currently learning JSX React and Deep Learning Computer Vision
+- 🌱 I’m currently learning Big Data Systems and Website/App Development
 - 📫 Reach me at henrywbarber@gmail.com
